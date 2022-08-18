@@ -1,0 +1,101 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+  background-image: url(beans.jpg);
+  color: black;
+}
+
+.menu {
+  margin: auto;
+  width: 80%;
+  max-width: 500px;
+  padding: 20px;
+  background-color: burlywood;
+}
+
+hr {
+  height: 3px;
+  background-color: brown;
+  border: 0;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+header {
+  text-align: center;
+}
+
+h1 {
+  font-size: 40px;
+  margin-bottom: 15px;
+}
+
+.established {
+  font-style: italic;
+}
+
+h2 {
+  margin-bottom: 20px;
+  font-size: 30px;
+}
+
+h1,
+h2 {
+  font-family: "Impact", serif;
+}
+
+section {
+  margin: 20px 0;
+}
+
+.item p {
+  display: inline-block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 18px;
+}
+
+.name {
+  width: 69%;
+}
+
+.price {
+  width: 29%;
+  text-align: right;
+}
+
+/* FOOTER */
+
+footer {
+  text-align: center;
+}
+
+footer p,
+foot a {
+  font-size: 14px;
+}
+
+a {
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: brown;
+}
+
+a:active {
+  color: brown;
+}
+
+.menu-icon {
+  margin-top: -15px;
+  height: 50px;
+}
+
+.coffee-icon {
+  height: 45px;
+}
